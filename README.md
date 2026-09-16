@@ -25,7 +25,7 @@ This repository contains information about me, my projects, skills, portfolio, a
 
 🚀 Portfolio
 
-🌐 https://maruf-x-hub.onrender.com
+🌐 https://web.maruf-x-hub.page.gd
 
 ---
 
