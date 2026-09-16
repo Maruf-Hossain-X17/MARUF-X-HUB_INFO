@@ -22,7 +22,7 @@ Features
 
 Live Demo
 
-https://maruf-x-hub.onrender.com
+https://web.maruf-x-hub.page.gd
 
 Technologies
 
